@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ulugbek
+- 👀 I’m interested in coding and football
+- 🌱 I’m currently learning .Net
+- 📫 How to reach me julugbek023@gmail.com
