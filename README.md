@@ -1,4 +1,4 @@
-# 👋 Salom, men [Jumaboyev Ulug'bek]!
+# 👋 Salom, men Jumaboyev Ulug'bek!
 
 💻 Men .NET dasturchisiman — C#, ASP.NET Core, va Entity Framework bilan backend loyihalar ustida ishlayman.  
 🎓 TDIUda raqamli iqtisodiyot yo'nalishida tahsil olyapman.  
